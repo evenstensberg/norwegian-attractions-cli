@@ -1,0 +1,1 @@
+`npx norwegian-attractions-cli`
